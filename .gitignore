@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+ENV/
+
+# Configurações locais
+.env
+.env.*
+*.local
+
+# IDEs e editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Builds e distribuição
+build/
+dist/
+*.egg-info/
+
+# Cache de ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Imagens de referência locais do projeto
+# Remova esta parte se quiser versionar as imagens no GitHub
+referencia.png
+referencia2.png
+referencia3.png
+
+# Prints/capturas geradas
+screenshots/
+captures/
